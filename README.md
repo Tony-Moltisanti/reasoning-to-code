@@ -1,77 +1,109 @@
-Reasoning to Code
+# Reasoning to Code
 
-From logical reasoning to programming, problem-solving, and software quality engineering.
+**From logical reasoning to programming, problem-solving, and software
+quality engineering.**
 
-About This Repository
+## About This Repository
 
-This repository documents my journey of developing the ability to think logically, solve problems systematically, write better software, and test applications thoroughly.
+This repository documents my journey of developing the ability to think
+logically, solve problems systematically, write better software, and
+test applications thoroughly.
 
-The goal is not simply to learn programming syntax. It is to understand how to reason through problems, translate solutions into code, and identify situations where software can fail.
+The goal is not simply to learn programming syntax. It is to understand
+how to reason through problems, translate that reasoning into code, and
+identify situations where software can fail.
 
-I am starting from the fundamentals and building my skills progressively through practical exercises and projects.
+I am building these skills progressively through structured lessons,
+practical exercises, and real-world examples.
 
-Learning Goals
+## Learning Goals
 
-- Develop strong logical and analytical thinking.
-- Improve structured problem-solving abilities.
-- Understand computational thinking and algorithms.
-- Translate logical reasoning into programming solutions.
-- Develop practical PHP and Laravel programming skills.
-- Learn professional software testing techniques.
-- Identify edge cases, boundary conditions, and unexpected behaviour.
-- Build reliable software through systematic testing.
+-   Develop strong logical and analytical thinking.
+-   Improve structured problem-solving abilities.
+-   Understand computational thinking and algorithms.
+-   Translate logical reasoning into programming solutions.
+-   Strengthen practical PHP and Laravel programming skills.
+-   Learn professional software testing techniques.
+-   Identify edge cases, boundary conditions, and unexpected behaviour.
+-   Build reliable software through systematic testing.
 
-Learning Roadmap
+See [Learning Goals](00-learning-roadmap/learning-goals.md) for more
+detail.
 
-Milestone| Learning Area| Status
-01| Understanding Logic| In Progress
-02| Building Reasoning Ability| Not Started
-03| Conditional Logic| Not Started
-04| Analytical Problem-Solving| Not Started
-05| Computational Thinking| Not Started
-06| Programming Logic| Not Started
-07| Software Testing| Not Started
-08| Advanced Testing Engineering| Not Started
+## Learning Roadmap
 
-Practical Applications
+  Milestone   Learning Area                  Status
+  ----------- ------------------------------ -------------
+  01          Understanding Logic            In Progress
+  02          Building Reasoning Ability     Not Started
+  03          Conditional Logic              Not Started
+  04          Analytical Problem-Solving     Not Started
+  05          Computational Thinking         Not Started
+  06          Programming Logic              Not Started
+  07          Software Testing               Not Started
+  08          Advanced Testing Engineering   Not Started
 
-The concepts learned will be applied through:
+## Practical Applications
 
-- Bookshop problem-solving exercises.
-- Clinic appointment booking scenarios.
-- PHP programming exercises.
-- Laravel application development.
-- Software testing and test-case design.
-- Edge-case and boundary-value analysis.
-- PHPUnit and Laravel automated testing.
+The concepts will be applied through:
 
-Repository Structure
+-   Bookshop problem-solving exercises.
+-   Clinic appointment-booking scenarios.
+-   PHP programming exercises.
+-   Laravel application behaviour and business rules.
+-   Software test-case design.
+-   Edge-case and boundary-value analysis.
+-   PHPUnit and Laravel automated testing.
 
+## Repository Structure
+
+``` text
 reasoning-to-code/
-│
 ├── README.md
 ├── 00-learning-roadmap/
+│   ├── learning-goals.md
+│   ├── course-roadmap.md
+│   └── progress-tracker.md
 ├── 01-understanding-logic/
+│   ├── lessons/
+│   ├── exercises/
+│   ├── solutions/
+│   └── milestone-summary.md
 ├── 02-building-reasoning-ability/
 ├── 03-conditional-logic/
 ├── 04-analytical-problem-solving/
 ├── 05-computational-thinking/
 ├── 06-programming-logic/
+│   ├── php-examples/
+│   └── exercises/
 ├── 07-software-testing/
+│   ├── test-cases/
+│   ├── edge-cases/
+│   ├── boundary-testing/
+│   └── bug-reports/
 ├── 08-advanced-testing-engineering/
+│   ├── phpunit/
+│   ├── laravel-testing/
+│   ├── integration-testing/
+│   └── automation/
 ├── projects/
+│   ├── bookshop-exercises/
+│   └── clinic-booking-exercises/
 └── assessments/
+```
 
-Learning Philosophy
+## Learning Philosophy
 
-I believe good software development begins with good thinking.
+Good software development begins with good thinking.
 
-Before writing code, I want to understand the problem, identify the rules, examine possible outcomes, and reason about what should happen.
+Before writing code, I want to understand the problem, identify the
+rules, examine possible outcomes, and reason about what should happen.
 
-Before considering software complete, I want to understand how it can fail and how to test those possibilities.
+Before considering software complete, I want to understand how it can
+fail and how to test those possibilities.
 
 This repository will document that growth, one step at a time.
 
----
+------------------------------------------------------------------------
 
-Current focus: Building a strong foundation in logic and reasoning.
+**Current focus:** Building a strong foundation in logic and reasoning.
